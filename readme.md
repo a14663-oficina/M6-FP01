@@ -115,3 +115,7 @@ Estruturação de projetos web;
 Importância da organização e clareza do código;
 
 Utilização consciente e responsável da Inteligência Artificial como apoio ao desenvolvimento.
+
+---
+
+## 🔗 Repositório GitHub
