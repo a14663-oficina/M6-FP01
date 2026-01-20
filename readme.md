@@ -118,4 +118,5 @@ Utilização consciente e responsável da Inteligência Artificial como apoio ao
 
 ---
 
-## 🔗 Repositório GitHub
+## 🔗 URL/Site do projeto:
+https://a14663-oficina.infinityfree.me/m6-inventario/
