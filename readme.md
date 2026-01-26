@@ -1,4 +1,4 @@
-👨‍🎓 Identificação:
+👨‍🎓 Identificação
 
 •	Nome do aluno: Gonçalo<br>
 •	Turma: 2I<br>
