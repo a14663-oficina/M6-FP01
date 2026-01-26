@@ -1,120 +1,114 @@
 👨‍🎓 Identificação
 
-Nome do aluno: Gonçalo<br> 
-Turma: 2I<br>
-Disciplina: REDES – M6 – Programação de Sistemas de Informação<br>
-Curso: GPSI – 2.º Ano
+Nome do aluno: Gonçalo.
 
+Turma: 2I.
+
+Disciplina: REDES – M6 – Programação de Sistemas de Informação.
+
+Curso: GPSI – 2.º Ano.
 
 🎯 Objetivo do Projeto
 
-Este projeto teve como objetivo o desenvolvimento de um site web em PHP com ligação a uma base de dados, no âmbito da área da Informática.
+Desenvolvimento de um site web em PHP com ligação a uma base de dados.
 
-O site permite a consulta de computadores de uma sala, apresentando informações como as suas características técnicas e o software instalado, de forma organizada e acessível através de páginas dinâmicas.
+Projeto realizado no âmbito da área da Informática.
 
+Consulta de computadores de uma sala através de páginas dinâmicas.
+
+Apresentação de características técnicas e software instalado.
+
+Organização clara e acessível da informação.
 
 🗂️ Estrutura do Projeto
 
-O projeto foi organizado de forma simples e funcional, contendo:
+Organização simples e funcional do projeto.
 
-Ficheiros principais em PHP, nomeadamente:
+Utilização de ficheiros PHP principais.
 
-index.php – página principal com a listagem dos computadores;
+index.php como página principal com listagem dos computadores.
 
-detalhe.php – página de detalhe de cada computador;
+detalhe.php como página de detalhe de cada computador.
 
-config.php – ficheiro de ligação à base de dados;
+config.php como ficheiro de ligação à base de dados.
 
-Utilização de uma base de dados relacional para armazenar os dados dos computadores e respetivo software;
+Utilização de uma base de dados relacional.
 
-Separação lógica do código para facilitar a manutenção e compreensão do projeto.
-
+Separação lógica do código para facilitar manutenção e compreensão.
 
 ⚙️ Funcionalidades Desenvolvidas
 
-As principais funcionalidades implementadas foram:
+Ligação à base de dados utilizando PHP com PDO.
 
-Ligação à base de dados utilizando PHP com PDO;
+Listagem dos computadores existentes na base de dados.
 
-Listagem dos computadores existentes na base de dados;
+Visualização das características técnicas de cada computador.
 
-Visualização das características técnicas de cada computador;
+Consulta do software instalado em cada máquina.
 
-Consulta do software instalado em cada máquina;
+Página individual de detalhe para cada computador.
 
-Página de detalhe individual para cada computador;
+Organização clara da informação apresentada ao utilizador.
 
-Organização clara da informação apresentada ao utilizador;
-
-Estrutura simples e intuitiva de navegação entre páginas.
-
+Navegação simples e intuitiva entre páginas.
 
 🤖 Utilização da Inteligência Artificial
 
-A Inteligência Artificial foi utilizada como ferramenta de apoio ao desenvolvimento do projeto, servindo como auxílio técnico e de aprendizagem.
+Utilização da IA como ferramenta de apoio técnico e de aprendizagem.
 
 🔹 Aplicação da IA
 
-A IA foi utilizada para ajudar na:
+Apoio na escrita e correção de código em PHP.
 
-Escrita e correção de código em PHP;
+Criação e otimização de queries SQL.
 
-Criação e otimização de queries SQL;
+Estruturação da ligação à base de dados.
 
-Estruturação da ligação à base de dados;
-
-Identificação e resolução de erros no código;
+Identificação e resolução de erros no código.
 
 Sugestões de melhoria na organização e apresentação do site.
 
 🔹 Papel do Aluno
 
-O aluno teve um papel ativo em todo o processo, sendo responsável por:
+Análise e compreensão das sugestões fornecidas pela IA.
 
-Analisar e compreender as sugestões fornecidas pela IA;
+Adaptação do código às necessidades do projeto.
 
-Adaptar o código às necessidades específicas do projeto;
+Implementação e testes das funcionalidades.
 
-Implementar e testar todas as funcionalidades;
-
-Garantir o correto funcionamento do site.
-
+Garantia do correto funcionamento do site.
 
 ✍️ Trabalho Desenvolvido Manualmente
 
-O trabalho foi maioritariamente desenvolvido pelo aluno, incluindo:
+Implementação final das páginas em PHP.
 
-Implementação final das páginas em PHP;
+Ligação correta à base de dados.
 
-Ligação correta à base de dados;
+Organização do código e dos ficheiros do projeto.
 
-Organização do código e dos ficheiros do projeto;
-
-Estruturação da base de dados;
+Estruturação da base de dados.
 
 Decisões relativas ao funcionamento geral do site.
 
-
 🚧 Dificuldades Encontradas
 
-Estabelecer corretamente a ligação entre o PHP e a base de dados;
+Estabelecer corretamente a ligação entre PHP e base de dados.
 
-Criar queries SQL funcionais e eficientes;
+Criar queries SQL funcionais e eficientes.
 
-Estas dificuldades foram ultrapassadas com testes, pesquisa e apoio da Inteligência Artificial.
-
+Superação das dificuldades através de testes, pesquisa e apoio da IA.
 
 📘 Aprendizagens Realizadas
 
-Desenvolvimento de sites dinâmicos em PHP com base de dados;
+Desenvolvimento de sites dinâmicos em PHP com base de dados.
 
-Utilização de PDO para ligação segura à base de dados;
+Utilização de PDO para ligação segura à base de dados.
 
-Estruturação de projetos web;
+Estruturação de projetos web.
 
-Importância da organização e clareza do código;
+Importância da organização e clareza do código.
 
-Utilização consciente e responsável da Inteligência Artificial como apoio ao desenvolvimento.
+Utilização consciente e responsável da Inteligência Artificial.
 
 ---
 
