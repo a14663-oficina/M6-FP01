@@ -1,3 +1,9 @@
+•	Nome do aluno: Gonçalo
+•	Turma: 2I
+•	Disciplina: REDES 
+
+
+
 👨‍🎓 Identificação
 
 Nome do aluno: Gonçalo.
