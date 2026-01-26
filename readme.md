@@ -1,9 +1,9 @@
 👨‍🎓 Identificação:
 
-•	Nome do aluno: Gonçalo.
-•	Turma: 2I.
-•	Disciplina: REDES – M6 – Programação de Sistemas de Informação.
-•	Curso: GPSI – 2.º Ano.
+•	Nome do aluno: Gonçalo<br>
+•	Turma: 2I<br>
+•	Disciplina: REDES – M6 – Programação de Sistemas de Informação<br>
+•	Curso: GPSI – 2.º Ano
 
 🎯 Objetivo do Projeto
 
